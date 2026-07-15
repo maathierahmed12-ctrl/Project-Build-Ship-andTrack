@@ -1,4 +1,4 @@
-package com.example.visitorlog.model;
+package brand_new.model;
 
 public class Visitor {
 
@@ -7,13 +7,14 @@ public class Visitor {
     private String company;
     private String purpose;
 
+
+
     public Visitor(Long id, String name, String company, String purpose) {
         this.id = id;
         this.name = name;
         this.company = company;
         this.purpose = purpose;
     }
-
     public Long getId() {
         return id;
     }
@@ -46,3 +47,4 @@ public class Visitor {
         this.purpose = purpose;
     }
 }
+

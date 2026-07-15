@@ -1,4 +1,4 @@
-package com.example.brand_new;
+package brand_new;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
