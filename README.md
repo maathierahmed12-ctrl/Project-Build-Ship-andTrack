@@ -1,4 +1,3 @@
-<img width="1260" height="709" alt="image" src="https://github.com/user-attachments/assets/869a263b-9e0f-4b65-ab54-c4a0c60439cd" />
 # Visitor Log API 
 
 A lightweight, in-memory Java microservice built with the **Spring Boot** framework to manage, record, and track front desk visitors at a training center or corporate office.
